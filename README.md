@@ -37,7 +37,7 @@ rainfall_prediction_using_ml/
   - Cloud, Temp at 9am/3pm
   - RainToday, RainTomorrow (target)
 
-> ⚠️ Ensure the CSV dataset (e.g., `weatherAUS.csv`) is available in the notebook directory.
+> ⚠️ Ensure the CSV dataset (e.g., `Rainfall.csv`) is available in the notebook directory.
 
 ---
 
@@ -89,10 +89,7 @@ scikit-learn
 
 ---
 
-## 🙋 Author
 
-**Your Name**  
-GitHub: [@yourgithubhandle](https://github.com/yourgithubhandle)
 
 ---
 
